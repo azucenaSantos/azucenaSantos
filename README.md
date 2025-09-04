@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajo en **Cuatrocientos Cuatro Programación S.L**
 
-- 🌱 Estoy aprendiendo sobre **Angular, Astro, Tailwind CSS, TypeScript Wordpress y Prestashop**
+- 🌱 Estoy aprendiendo sobre **Angular, Astro, Tailwind CSS, TypeScript, Wordpress y Prestashop**
 
 - 📫 Puedes contactar conmigo en **azu.santos.ete@gmail.com**
 
